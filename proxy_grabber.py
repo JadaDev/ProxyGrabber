@@ -6,14 +6,12 @@ import socket
 
 links = [
     "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
-    "https://raw.githubusercontent.com/officialputuid/KangProxy/KangPreoxy/https/https.txt",
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/proxy.txt",
     "https://raw.githubusercontent.com/UptimerBot/proxy-list/master/proxies/http.txt",
     "https://api.proxyscrape.com/?request=displayproxies&proxytype=http",
     "https://raw.githubusercontent.com/JadaDev/proxylist/main/http-https.txt",
     "https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt",
     "https://raw.githubusercontent.com/caliphdev/Proxy-List/master/http.txt",
-    "https://raw.githubusercontent.com/officiaalputuid/KangProxy/KangProxy/httpes/https.txt",
     "https://raw.githubusercontent.com/prxchk/proxy-list/main/http.txt",
     "https://raw.githubusercontent.com/parserpp/ip_ports/main/proxyinfo.txt",
     "https://raw.githubusercontent.com/zuoxiaolei/proxys/main/proxys/proxys.txt",
